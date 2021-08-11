@@ -1,2 +1,2 @@
-# tapmusic
- beatswithtap
+# TapForMusic
+ visit: https://shivamdureja.github.io/TapMusic/
